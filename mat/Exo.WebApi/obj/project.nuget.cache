@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oY8ITuFGLxvLfni18Zets8DozVDMRZvDmpziTHU7bcVC8oUDsfy2MSWFeCmY4hWBQAYnD6pVdyY6s0EhBSrnWQ==",
+  "dgSpecHash": "/Hn4PJjHx6Jm9PJLB8Zjp4En+QB7C8ym99gYcuC1O/uf34R2RM0b46HvFCtooB7T73oluW4hZZ3w3EeFtdKWHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno\\OneDrive\\Documentos\\atv4\\mat\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\bruno\\OneDrive\\Documentos\\atv4c-desenvolvimento-api\\mat\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

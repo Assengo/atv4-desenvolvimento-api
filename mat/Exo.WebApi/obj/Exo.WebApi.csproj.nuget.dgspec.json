@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno\\OneDrive\\Documentos\\atv4\\mat\\Exo.WebApi\\Exo.WebApi.csproj": {}
+    "C:\\Users\\bruno\\OneDrive\\Documentos\\atv4c-desenvolvimento-api\\mat\\Exo.WebApi\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno\\OneDrive\\Documentos\\atv4\\mat\\Exo.WebApi\\Exo.WebApi.csproj": {
+    "C:\\Users\\bruno\\OneDrive\\Documentos\\atv4c-desenvolvimento-api\\mat\\Exo.WebApi\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno\\OneDrive\\Documentos\\atv4\\mat\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\bruno\\OneDrive\\Documentos\\atv4c-desenvolvimento-api\\mat\\Exo.WebApi\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Users\\bruno\\OneDrive\\Documentos\\atv4\\mat\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectPath": "C:\\Users\\bruno\\OneDrive\\Documentos\\atv4c-desenvolvimento-api\\mat\\Exo.WebApi\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno\\OneDrive\\Documentos\\atv4\\mat\\Exo.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\bruno\\OneDrive\\Documentos\\atv4c-desenvolvimento-api\\mat\\Exo.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config"
